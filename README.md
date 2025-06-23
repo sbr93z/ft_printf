@@ -11,7 +11,7 @@ Le projet ft_printf consiste à implémenter une version simplifiée de la fonct
 ## Installation
 
 ```bash
-git clone https://github.com/sbr93z/ft_printf.git
+git clone git@github.com:sferrad/ft_printf.git
 cd ft_printf
 make
 ```
